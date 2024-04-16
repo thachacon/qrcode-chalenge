@@ -29,7 +29,7 @@ CSS:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qrcode-chalenge.netlify.app/)
+- Live Site URL: [qrcode-chalenge](https://qrcode-chalenge.netlify.app/)
 
 ## My process
 
